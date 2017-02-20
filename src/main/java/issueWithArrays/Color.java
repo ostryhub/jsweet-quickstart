@@ -8,7 +8,7 @@ public class Color {
         Color[] array = new Color[10];
 
         // this fails
-        Color[] copied = Arrays.<Color>copyOf(array, array.length);
+        Color[] copied = Arrays.copyOf(array, array.length);
 
         // and this also fails
         Color[] copied2 = Arrays.<Color>copyOf(array, array.length);
