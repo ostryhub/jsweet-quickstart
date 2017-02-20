@@ -124,3 +124,4 @@ org.apache.maven.plugin.MojoFailureException: transpilation failed with 1 error(
 [ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException
 
 Process finished with exit code 1
+
